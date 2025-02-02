@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+
+li {
+    background-color: white;
+    padding: 1vh;
+    border-radius: 1vh;
+}
+
+#searchbar{
+    background-color: rgb(55, 55, 55);
+    border: none;
+    height: 3vh;
+    border-radius: 3vh;
+}
