@@ -5,7 +5,7 @@ Objectif principal :
 Realiser un back-end en php sans framework
 
 
-Statut : ...
+Statut : Echoué
 
 
 Deadline : Dimanche 2 Février 23h42
